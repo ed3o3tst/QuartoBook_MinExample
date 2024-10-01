@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "manuscript/index.html",
+    "href": "manuscript/index.html",
+    "title": "Manuscript",
+    "section": "",
+    "text": "Here in the introduction text."
+  },
+  {
+    "objectID": "manuscript/index.html#introduction",
+    "href": "manuscript/index.html#introduction",
+    "title": "Manuscript",
+    "section": "",
+    "text": "Here in the introduction text."
+  },
+  {
+    "objectID": "analysis/index.html",
+    "href": "analysis/index.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paper_1",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]

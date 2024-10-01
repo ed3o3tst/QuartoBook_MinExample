@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Paper_1"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: analysis/index.qmd
+        text: Analysis
+      - href: manuscript/index.qmd
+        text: Manuscript
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

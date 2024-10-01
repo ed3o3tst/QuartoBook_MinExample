@@ -1,0 +1,11 @@
+---
+project:
+  type: manuscript
+  output-dir: ../_site/manuscript
+
+title: "Manuscript"
+abstract: "This is my abstract text; the text I want in an abstract environment in my Book, such that I can change only the layout of this text."
+---
+
+## Introduction
+Here in the introduction text.

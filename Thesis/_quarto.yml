@@ -1,0 +1,20 @@
+project:
+  type: book
+
+book:
+  title: "Thesis"
+  author: "Norah Jones"
+  date: today
+  chapters:
+    - index.qmd
+    - ../Paper_1/manuscript/index.qmd
+
+bibliography: references.bib
+
+format:
+  pdf:
+    documentclass: scrreprt
+    keep-tex: true
+
+editor: source
+
